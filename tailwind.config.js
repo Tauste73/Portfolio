@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       colors: {
         "fond-page": "#0C0301",
-        "contour-button": "#000061"
+        "contour-button": "#000061",
+        "fond-card": "#252120"
       }
     },
     fontFamily: {
