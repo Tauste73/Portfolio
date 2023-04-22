@@ -1,10 +1,10 @@
 <template>
-    <div class="text-white py-6 bg-slate-600 w-3/4 m-auto">
+    <div id="competences" class="text-white py-6 min-h-screen scroll-mt-32">
         <div class="mb-4">
-            <h2 class="text-3xl">Compétences</h2>
+            <h2 class="text-4xl underline underline-offset-4">Compétences</h2>
             <p>Voici quelques technologie que j'ai pu utiliser.</p>
         </div>
-        <div class="bg-slate-800 grid grid-cols-2 sm:grid-cols-4 gap-4 shadow-lg  self-center">
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 shadow-lg  self-center sm:w-2/3 sm:m-auto">
             <a class="flex flex-col bg-fond-card p-3 text-center hover:-translate-y-1" href="https://angular.io/" >
                 <img src="./../assets/logo/angular.png" alt="angular.png" />
                 <p class="self-center mt-1">Angular</p>

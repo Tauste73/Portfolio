@@ -5,9 +5,10 @@
         <h1 class="text-5xl font-semi-bold">Arnaud</h1>
         
         <nav class="container flex flex-row justify-end gap-4 ">
-            <button class="rounded-full border-solid border-2 hover:text-black hover:bg-white p-1">Qui suis-je</button>
-            <button class="rounded-full border-solid border-2 hover:text-black hover:bg-white p-1">Projets</button>
-            <button class="rounded-full border-solid border-2 hover:text-black hover:bg-white p-1">Compétences</button>
+            <a href="" class="rounded-full border-solid border-2 hover:text-black hover:bg-white p-1 self-center">Qui suis-je</a>
+            <a href="#competences" class="rounded-full border-solid border-2 hover:text-black hover:bg-white p-1 self-center">Compétences</a>
+            <a href="#projets" class="rounded-full border-solid border-2 hover:text-black hover:bg-white p-1 self-center">Projets</a>
+            
         </nav>
     </header>
 </template>
