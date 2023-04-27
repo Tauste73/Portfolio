@@ -1,10 +1,10 @@
 
 <template>
-    <div class=" fixed inset-y-0 left-0 top-1/2 w-16 ml-6  ">
+    <div class="flex flex-row lg:flex-col lg:fixed lg:inset-y-0 lg:left-0 lg:top-1/3 w-64 lg:w-16 lg:ml-6 items-center  ">
         <a href="https://github.com/Tauste73">
-            <img class="invert" src="./../assets/logo/github.png" />
+            <img class="invert hover:translate-x-1 duration-300" src="./../assets/logo/github.png" />
         </a>
-        <a href="https://github.com/Tauste73">
+        <a class="ml-5 lg:ml-0 lg:mt-5 hover:translate-x-1 duration-300" href="https://www.linkedin.com/in/arnaud-guigue-billon/">
             <img  src="./../assets/logo/linkedin.png" />
         </a>
     </div>
