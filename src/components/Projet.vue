@@ -15,7 +15,7 @@
 
                 <div class="container flex flex-col sm:flex-row">
                     <img class="w-80" src="./../assets/image/rvprojet2.jpg" alt="rvprojet2.png" />
-                    <p class="self-center overflow-visible text-sm sm:text-2xl text-justify m-10  ">C'est une application mobile et un site web qui vise à recréer une recyclerie virtuel.</p>
+                    <p class="self-center overflow-visible text-sm sm:text-2xl text-justify m-10  ">C'est une application mobile et un site web qui vise à recréer une recyclerie virtuel et qui à été réalisé dans le cadre du projet de première année de master informatique.</p>
                 </div>
 
                 <div class="container flex flex-col-reverse sm:flex-row">
