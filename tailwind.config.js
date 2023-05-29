@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "fond-page": "#0C0301",
+        "fond-page": "#000000",
         "contour-button": "#000061",
         "fond-card": "#252120"
       }

@@ -7,7 +7,7 @@ import Contact from './components/Contact.vue'
 </script>
 
 <template>
-  <div class="flex flex-col min-h-screan font-Roboto bg-black scroll-smooth">
+  <div class="flex flex-col min-h-screan font-Roboto bg-fond-page scroll-smooth">
     <Navigation />
     <div class="sm:w-3/4 sm:m-auto">
       <Presentation />
